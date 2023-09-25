@@ -1,4 +1,4 @@
 a, b = 3, 6
-
-print(a*b)
+c = 12
+print(a*b-c)
 
